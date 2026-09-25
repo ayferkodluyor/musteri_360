@@ -16,3 +16,6 @@ Proje kapsamında:
 - `app.py` — uygulama arayüzü
 - `app_yeni.py` — geliştirilen yeni arayüz sürümü
 
+## 📸 Uygulama Görüntüleri
+![Müşteri 360 - Genel Görünüm](musteri-360-1.jpg)
+![Müşteri 360 - Müşteri Detay Ekranı](musteri-360-2.jpg)
