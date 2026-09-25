@@ -19,3 +19,6 @@ Proje kapsamında:
 ## 📸 Uygulama Görüntüleri
 ![Müşteri 360 - Genel Görünüm](musteri-360-1.jpg)
 ![Müşteri 360 - Müşteri Detay Ekranı](musteri-360-2.jpg)
+
+## 🎥 Proje Videosu
+Müşteri 360 projesinin kısa tanıtım videosunu YouTube kanalımda izleyebilirsiniz: https://www.youtube.com/watch?v=eJvCFhIc6OE
