@@ -10,11 +10,12 @@ Proje kapsamında:
 - Müşteriye ait farklı bilgiler bir araya getirilerek 360 derece müşteri görünümü oluşturulur.
 - Kullanıcı dostu bir arayüz üzerinden müşteri incelemesi yapılır.
 
-## 📁 Proje Dosyaları
-- `veri_uret.py` — eğitim amaçlı örnek verilerin oluşturulması
-- `musteri_360.py` — projenin temel Python kodları
-- `app.py` — uygulama arayüzü
-- `app_yeni.py` — geliştirilen yeni arayüz sürümü
+## 📁 Dosyalar
+
+- `app.py` — Streamlit uygulamasının temel arayüzü
+- `app_yeni.py` — Uygulamanın geliştirilmiş Streamlit arayüzü
+- `musteri_360.py` — Müşteri verilerinin işlenmesi ve analiz yapısı
+- `veri_uret.py` — Sentetik müşteri verilerinin oluşturulması
 
 ## 📸 Uygulama Görüntüleri
 ![Müşteri 360 - Genel Görünüm](musteri-360-1.jpg)
